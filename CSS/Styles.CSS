@@ -1,0 +1,21 @@
+/*****************TAGS********************/
+h1:hover{color:gold;}
+
+
+
+body{
+  background-color: #F9E090
+
+}
+th{
+  border-bottom-style: solid;
+}
+/*********************CLASS*****************/
+
+.horizontal{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 10%;
+  border-width: 5px;
+}
