@@ -55,8 +55,58 @@ body{
   padding-bottom: 16px;
 }
 
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+  .carousel-item img{
+  /*position: center;*/
+  height:80vh;
+  /*object-fit: cover;*/
+  width: 80% \9;
+ /* border-radius: 10px;*/
 
+}
 
+.carousel-caption h5 {
+  display: none;
+}
 
+}
 
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+  .carousel-item img{
+  /*position: center;*/
+  height:80vh;
+  /*object-fit: cover;*/
+  width: 80% \9;
+ /* border-radius: 10px;*/
+
+}
+
+.carousel-caption h5 {
+  display: none;
+}
+
+}
+
+.container-contact{
+margin:16px auto;
+  width:1200px;
+  background-color:white;
+  border-radius: 5px;
+/*  margin:2rem 0;
+*/  display: flex;
+  flex-direction: column;
+  opacity:0.8;
+  padding:32px;
+
+}
+.contact{
+  margin: 16px;
+}
+
+.contact label{
+  display:block;
+  /*margin:16px;*/
+}
 
