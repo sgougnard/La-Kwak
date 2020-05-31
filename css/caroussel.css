@@ -1,0 +1,20 @@
+.carousel-inner{
+  max-height: 800px;
+
+ /* background-position: center;
+ background-size: cover;*/
+}
+
+.carousel-item img{
+  /*position: center;*/
+  height:100vh;
+  object-fit: cover;
+ /* border-radius: 10px;*/
+
+}
+
+.carousel-caption h5 {
+  margin-bottom: 300px;
+  font-size: 5rem;
+  color:rgb(237,156,0);
+}

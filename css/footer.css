@@ -1,0 +1,18 @@
+.footer{
+  margin:0 auto;
+  text-align: center;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer i{
+  padding:16px;
+  font-size:2rem;
+}
+
+.footer i:hover{
+  padding:16px;
+  font-size:2rem;
+   color:rgb(237,156,0);
+}
